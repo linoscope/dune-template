@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries dunetemplate_lib base stdio))

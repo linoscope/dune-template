@@ -1,0 +1,5 @@
+(library
+ (name dunetemplate_test)
+ (libraries dunetemplate_lib)
+ (inline_tests)
+ (preprocess (pps ppx_jane)))
